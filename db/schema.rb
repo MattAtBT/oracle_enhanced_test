@@ -14,6 +14,6 @@
 ActiveRecord::Schema.define(version: 20140110190037) do
 
 # Could not dump table "test_table" because of following NoMethodError
-#   undefined method `column_spec_with_oracle_enhanced' for #<ActiveRecord::ConnectionAdapters::SQLite3Adapter:0x007f9894c21aa8>
+#   undefined method `column_spec_with_oracle_enhanced' for #<ActiveRecord::ConnectionAdapters::SQLite3Adapter:0x007fbdccb46f90>
 
 end
